@@ -1,0 +1,6 @@
+com\example\DemoApplication.class
+com\example\dao\GenericRepository.class
+com\example\entity\Example.class
+com\example\controller\DemoController.class
+com\example\dao\GenericRepositoryImpl.class
+com\example\controller\rest\DemoRestController.class
